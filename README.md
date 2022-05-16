@@ -15,5 +15,5 @@ Tu vas rester pour cette exercice sur la syntaxe CommonJS : require pour importe
 
 # SOLUTION  
 1-  ```git clone https://github.com/letotor/cow-say```  
-2- ```npm install```  (pour installer les dependances du projet)
+2- ```npm install```  (pour installer les dependances du projet)  
 3- lance la commande -> ```npm run start``` 
