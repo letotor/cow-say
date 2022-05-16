@@ -17,3 +17,8 @@ Tu vas rester pour cette exercice sur la syntaxe CommonJS : require pour importe
 1-  ```git clone https://github.com/letotor/cow-say```  
 2- ```npm install```  (pour installer les dependances du projet)  
 3- lance la commande -> ```npm run start``` 
+
+
+# FUCKING  TIPS  
+si tu ne veux pas cloner mon repo ...
+**sur mon repo github ici meme appuie sur la touche `.`** chic boom
