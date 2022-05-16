@@ -14,4 +14,6 @@ Tu vas rester pour cette exercice sur la syntaxe CommonJS : require pour importe
 + Crée maintenant un fichier .gitignore afin de dé-tracker ton dossier node_modules et push ton travail sur GitHub. Partage le lien du repo comme solution du défi.
 
 # SOLUTION  
-lance la commande -> ```npm run start``` 
+1-  ```git clone https://github.com/letotor/cow-say```  
+2- ```npm install```  (pour installer les dependances du projet)
+3- lance la commande -> ```npm run start``` 
